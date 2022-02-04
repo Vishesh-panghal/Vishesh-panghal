@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vishesh-panghal
 - 👀 I’m interested in Exploring new things..!
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on  ecosystem
+- 💞️ I’m looking to collaborate on Apple ecosystem
 - 📫 How to reach me Instagram:-> (champion._.jaat)
 
 <!---
