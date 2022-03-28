@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning iOs devlopment
 
-- 👯 I’m looking to collaborate on
-
 - 📫 How to reach me **https://instagram.com/champion._.jaat?utm_medium=copy_link**
 
 <h3 align="left">Connect with me:</h3>
