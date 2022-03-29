@@ -20,4 +20,4 @@
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishesh-panghal" alt="Vishesh" /> </p>
 
-https://camo.githubusercontent.com/7b036067aa8fc521e002bdce8913ef0e3dcf721b468014a1b1842fda3ee2ee5a/68747470733a2f2f677076632e6172747572696f2e6465762f616368616c6573683237303232303033
+<p align="left"> <img src="https://camo.githubusercontent.com/7b036067aa8fc521e002bdce8913ef0e3dcf721b468014a1b1842fda3ee2ee5a/68747470733a2f2f677076632e6172747572696f2e6465762f616368616c6573683237303232303033" alt="Vishesh" /> </p>
