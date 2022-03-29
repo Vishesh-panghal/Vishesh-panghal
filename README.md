@@ -2,6 +2,7 @@
 <h3 align="center">Sophomore at Indian Institute of Information Technology, Kota</h3>
 
 - 🌱 I’m currently learning iOs devlopment~
+- 🫡 Doing projects in C/C++..
 
 - 📫 How to reach me **https://instagram.com/champion._.jaat?utm_medium=copy_link**
 
