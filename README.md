@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning iOs devlopment~
 - 🫡 Doing projects in C/C++..            
 
-- 📫 How to reach me~~<p align="left"> <a href="https://instagram.com/champion._.jaat?utm_medium=copy_link" target="_blank"> <img src="https://logowik.com/content/uploads/images/instagram-icon.jpg" alt="Instagram" width="40" height="40"/> </a> 
+- 📫 How to reach me  <p> <a href="https://instagram.com/champion._.jaat?utm_medium=copy_link" target="_blank"> <img src="https://logowik.com/content/uploads/images/instagram-icon.jpg" alt="Instagram" width="40" height="40"/> </a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
