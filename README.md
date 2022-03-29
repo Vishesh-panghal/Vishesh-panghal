@@ -18,6 +18,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Vishesh-panghal&theme=highcontrast&show_icons=true&count_private=true" alt="Vishesh" /></p>
 <br>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishesh-panghal" alt="Vishesh" /> </p>
-
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishesh-panghal&theme=vision-friendly-dark" alt="Vishesh" /> </p>
 <p align="left"> <img
+ <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishesh-panghal&theme=vision-friendly-dark" alt="Vishesh-panghal" /></p>
+<span  align="left">
+<img src="https://github.com/iamthedawn/content/blob/main/tenor%20(1).gif?raw=true" width="70px" />
+<br>                                                                                                
+<img src="https://komarev.com/ghpvc/?username=Vishesh-panghal&label=Profile%20views&color=grey&style=plastic&label=PROFILE+VIEWS" alt="Vishesh-panghal"  /> 
