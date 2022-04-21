@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, It's Vishesh Panghal here</h1>
 <h3 align="center">Sophomore at Indian Institute of Information Technology, Kota</h3>
 
-- 🌱 I’m currently learning iOs devlopment~
+- 🌱 I’m currently learning Data structure & Algorithms
 - 🫡 Doing projects in C/C++..
 
 - 📫 How to reach me 👉🏻👇 <p> <a href="https://instagram.com/champion._.jaat?utm_medium=copy_link" target="_blank">
