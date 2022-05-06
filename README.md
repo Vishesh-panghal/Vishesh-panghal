@@ -2,7 +2,7 @@
 <h3 align="center">Sophomore at Indian Institute of Information Technology, Kota</h3>
 
 - 🌱 I’m currently learning Data structure & Algorithms
-- 🫡 Doing projects in C/C++..
+- 🫡 Doing projects in Android Devlopment..
 
 - 📫 How to reach me 👉🏻👇 <p> <a href="https://instagram.com/champion._.jaat?utm_medium=copy_link" target="_blank">
         <img src="https://logowik.com/content/uploads/images/instagram-icon.jpg" alt="Instagram" width="60"
