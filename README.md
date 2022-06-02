@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Data structure & Algorithms
 - 🫡 Doing projects in Android Devlopment..
 
-- 📫 How to reach me 👉🏻👇 <p> <a href="https://instagram.com/champion._.jaat?utm_medium=copy_link" target="_blank">
+- 📫 How to reach me 👉🏻👇 <p> <a href="https://instagram.com/panghal._.vishesh?utm_medium=copy_link" target="_blank">
         <img src="https://logowik.com/content/uploads/images/instagram-icon.jpg" alt="Instagram" width="60"
             height="40" /> </a>
 
