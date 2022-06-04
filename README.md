@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, It's Vishesh Panghal here</h1>
+<h1 align="center">Hi 👋, Vishesh Panghal here</h1>
 <h3 align="center">Sophomore at Indian Institute of Information Technology, Kota</h3>
 
 - 🌱 I’m currently learning Data structure & Algorithms
