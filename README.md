@@ -40,6 +40,9 @@
             alt="javascript" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
             alt="mysql" width="40" height="40" /> </a>
+            <a href="https://dart.dev" target="_blank"> <img
+            src="https://swansoftwaresolutions.com/wp-content/uploads/2020/02/08.20.20-What-is-Dart-and-how-is-it-used.jpg"
+            alt="dart" width="40" height="40" /> </a>
     <hr>
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api?username=Vishesh-panghal&theme=highcontrast&show_icons=true&count_private=true"
