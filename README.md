@@ -38,7 +38,7 @@
         target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeTposYMjtwh1eh_Ar4ArfBzo5ZN8V9U4oG8PedphtSRRnPjFkSHK5D0fIdw_s2fMYs_Y&usqp=CAU"
             alt="mysql" width="40" height="40" /> </a>
             <a href="https://dart.dev" target="_blank"> <img
             src="https://www.scottbrady91.com/img/logos/dart.svg"
