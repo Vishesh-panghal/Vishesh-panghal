@@ -2,7 +2,7 @@
 <h3 align="center">Sophomore at Indian Institute of Information Technology, Kota</h3>
 
 - 🌱 I’m currently learning Data structure & Algorithms
-- 🫡 Doing projects in Android Devlopment..
+- 🫡 Doing projects in Flutter..
 
 - 📫 How to reach me 👉🏻👇 <p> <a href="https://instagram.com/panghal._.vishesh?utm_medium=copy_link" target="_blank">
         <img src="https://logowik.com/content/uploads/images/instagram-icon.jpg" alt="Instagram" width="60"
