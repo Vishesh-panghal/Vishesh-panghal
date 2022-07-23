@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Vishesh Panghal here</h1>
 <h3 align="center">Sophomore at Indian Institute of Information Technology, Kota</h3>
 
-- 🌱 I’m currently learning Data structure & Algo
+- 🌱 I’m currently learning Data structure & Algorithm
 - 🫡 Doing projects in Flutter..(Just pushed🙂)
 
 - 📫 How to reach me 👉🏻👇 <p> <a href="https://instagram.com/panghal._.vishesh?utm_medium=copy_link" target="_blank">
