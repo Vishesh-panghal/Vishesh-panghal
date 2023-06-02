@@ -3,7 +3,7 @@
 
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=Vishesh-panghal&label=Profile%20views&color=0e75b6&style=flat" alt="Shahid Iqbal" /> </p>
 
-- 🌱 I’m currently learning Data structure & Algorithm
+- 🌱 I’m currently learning Machine Learning..⚙️
 - 🫡 Doing projects in Flutter..👨🏻‍💻
 
 - 📫 How to reach me 👉🏻👇 <p> <a href="https://instagram.com/panghal._.vishesh?utm_medium=copy_link" target="_blank">
