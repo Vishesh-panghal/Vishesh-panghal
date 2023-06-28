@@ -6,12 +6,14 @@
 - 🌱 I’m currently learning Machine Learning..⚙️
 - 🫡 Doing projects in Flutter..👨🏻‍💻
 
-- 📫 How to reach me 👉🏻👇 <p> <a href="https://instagram.com/panghal._.vishesh?utm_medium=copy_link" target="_blank">
-        <img src="https://logowik.com/content/uploads/images/instagram-icon.jpg" alt="Instagram" width="60"
-            height="40" /> </a>
+- 📫 How to reach me 👉🏻👇 <br>visheshpanghal12@gmail.com <p> 
 
 <h3 align="left">Connect with me:</h3>
+
 <img src="https://github.com/iamthedawn/content/blob/main/tenor.gif?raw=true" width="300px" align="right">
+<a href="https://instagram.com/panghal._.vishesh?utm_medium=copy_link" target="_blank">
+        <img src="https://logowik.com/content/uploads/images/instagram-icon.jpg" alt="Instagram" width="60"
+            height="40" /> </a>
 <p align="left">
     <a href="https://mobile.twitter.com/vishesh_panghal" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
