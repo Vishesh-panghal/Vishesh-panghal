@@ -39,9 +39,6 @@
          <a href="https://www.mysql.com/" target="_blank"> <img
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeTposYMjtwh1eh_Ar4ArfBzo5ZN8V9U4oG8PedphtSRRnPjFkSHK5D0fIdw_s2fMYs_Y&usqp=CAU"
             alt="mysql" width="40" height="40" /> </a>
-           
-           
-    <hr>
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api?username=Vishesh-panghal&theme=highcontrast&show_icons=true&count_private=true"
         alt="Vishesh" /></p>
