@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Vishesh Panghal here</h1>
+<h1 align="center">Hi 👋 Vishesh Panghal here</h1>
 <h3 align="center">Sophomore at Indian Institute of Information Technology, Kota</h3>
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Vishesh-panghal&label=Profile%20views&color=0e75b6&style=flat" alt="Shahid Iqbal" /> </p> -->
