@@ -49,3 +49,6 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishesh-panghal&theme=vision-friendly-dark"
         alt="Vishesh" /> </p>
 <span align="left">
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishesh-panghal&" alt="vishesh-panghal" /></p>
