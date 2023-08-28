@@ -41,7 +41,7 @@
          <a href="https://www.mysql.com/" target="_blank"> <img
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeTposYMjtwh1eh_Ar4ArfBzo5ZN8V9U4oG8PedphtSRRnPjFkSHK5D0fIdw_s2fMYs_Y&usqp=CAU"
             alt="mysql" width="40" height="40" /> </a>
-        <a href="https:"https://developers.google.com/machine-learning/crash-course" target="_blank"> <img
+        <a href="https://developers.google.com/machine-learning/crash-course"> <img
             src="https://miro.medium.com/v2/resize:fit:1400/1*c_fiB-YgbnMl6nntYGBMHQ.jpeg"
             alt="ML" width="40" height="40" /> </a>
         <a href="https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi"> <img
