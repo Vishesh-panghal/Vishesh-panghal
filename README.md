@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<img src="https://github.com/iamthedawn/content/blob/main/tenor.gif?raw=true" width="300px"align="right">
+<img src="https://github.com/iamthedawn/content/blob/main/tenor.gif?raw=true" width="300px" align="right">
 <a href="https://instagram.com/panghal._.vishesh?utm_medium=copy_link" target="_blank">
         <img src="https://logowik.com/content/uploads/images/instagram-icon.jpg" alt="Instagram" width="60"
             height="40" /> </a>
