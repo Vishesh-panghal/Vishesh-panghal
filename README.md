@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Machine Learning ⎌⎌
 - 🫡 Doing projects in Flutter..👨🏻‍💻
 
-- 📫 How to reach me 👇 <br>visheshpanghal12@gmail.com<p> 
+- 📫 How to reach me <br>visheshpanghal12@gmail.com<p> 
 
 <h3 align="left">Connect with me:</h3>
 
