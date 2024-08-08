@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋 Vishesh Panghal here</h1>
-<h3 align="center">Sophomore at Indian Institute of Information Technology, Kota</h3>
+<h3 align="center">Sophomore at National Institute of Technology, Jalandhar</h3>
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Vishesh-panghal&label=Profile%20views&color=0e75b6&style=flat" alt="Vishesh Panghal"/></p>   -->
 
 - 🌱 I’m currently learning Machine Learning ⎌⎌
 - 🫡 Doing projects in Flutter..👨🏻‍💻
 
-- 📫 How to reach me <br>visheshpanghal12@gmail.com<p> 
+- 📫 How to reach me <br>pvt.panghal@gmail.com<p> 
 
 <h3 align="left">Connect with me:</h3>
 
