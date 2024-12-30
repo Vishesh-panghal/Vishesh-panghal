@@ -3,7 +3,7 @@
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Vishesh-panghal&label=Profile%20views&color=0e75b6&style=flat" alt="Vishesh Panghal"/></p>   -->
 
-- 🌱 I’m currently learning Machine Learning ⎌⎌
+- 🌱 I’m currently learning Computer Vision⎌⎌
 - 🫡 Doing projects in Flutter..👨🏻‍💻
 
 - 📫 How to reach me <br>pvt.panghal@gmail.com<p> 
